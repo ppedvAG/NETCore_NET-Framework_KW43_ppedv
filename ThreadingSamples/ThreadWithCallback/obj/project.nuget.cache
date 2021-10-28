@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0U8O3ZYAS3RNoAC3dCEYKrZh1X7VfTKILK76gWOd0YL/d6BumB/KLm+4KL1vjiNI6pgr8jpbuP1NiAu8m0Fo9A==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\ThreadingSamples\\ThreadWithCallback\\ThreadWithCallback.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThreadMitParameterStarten/1.0.0": {
+        "runtime": {
+          "ThreadMitParameterStarten.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadMitParameterStarten/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

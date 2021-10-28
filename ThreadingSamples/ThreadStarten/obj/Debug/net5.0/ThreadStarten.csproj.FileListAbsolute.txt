@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ref\ThreadStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\bin\Debug\net5.0\ThreadStarten.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ref\ThreadStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadStarten\obj\Debug\net5.0\ThreadStarten.genruntimeconfig.cache

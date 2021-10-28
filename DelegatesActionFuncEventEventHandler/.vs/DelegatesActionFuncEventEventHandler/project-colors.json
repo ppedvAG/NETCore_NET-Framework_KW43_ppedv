@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ece6155-5aae-4d74-96b3-5623c5472dec": {
+      "ProjectGuid": "6ece6155-5aae-4d74-96b3-5623c5472dec",
+      "DisplayName": "DelegatesActionFuncSamples",
+      "ColorIndex": 0
+    },
+    "34916fc5-f6d7-41bf-a383-a4780fe60c80": {
+      "ProjectGuid": "34916fc5-f6d7-41bf-a383-a4780fe60c80",
+      "DisplayName": "DelegateWithCallback",
+      "ColorIndex": 1
+    },
+    "cd02f0b3-6347-49bb-90a2-23efd7dba104": {
+      "ProjectGuid": "cd02f0b3-6347-49bb-90a2-23efd7dba104",
+      "DisplayName": "EventAndEventHandler",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

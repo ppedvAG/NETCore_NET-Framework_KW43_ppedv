@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qOhgmMhZh9t4q27t/zk8xFcJOArvhKAwLFv8cBKs0wQqq+3SGbxA1gf6q8VI4AM1suWwsNT3cHY7czn1livnw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\DelegatesActionFuncEventEventHandler\\EventAndEventHandler\\EventAndEventHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

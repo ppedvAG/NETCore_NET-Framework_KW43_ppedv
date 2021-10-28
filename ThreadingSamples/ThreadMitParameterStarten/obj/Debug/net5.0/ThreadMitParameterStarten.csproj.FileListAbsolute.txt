@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ref\ThreadMitParameterStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\bin\Debug\net5.0\ThreadMitParameterStarten.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ref\ThreadMitParameterStarten.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadMitParameterStarten\obj\Debug\net5.0\ThreadMitParameterStarten.genruntimeconfig.cache

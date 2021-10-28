@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ref\ThreadBeenden.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\bin\Debug\net5.0\ThreadBeenden.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ref\ThreadBeenden.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\ThreadingSamples\ThreadBeenden\obj\Debug\net5.0\ThreadBeenden.genruntimeconfig.cache
