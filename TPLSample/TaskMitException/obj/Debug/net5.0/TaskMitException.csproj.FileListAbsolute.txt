@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\ref\TaskMitException.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\bin\Debug\net5.0\TaskMitException.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\ref\TaskMitException.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\TaskMitException\obj\Debug\net5.0\TaskMitException.genruntimeconfig.cache

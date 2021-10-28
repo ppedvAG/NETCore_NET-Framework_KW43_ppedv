@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\ref\Task_Start.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\bin\Debug\net5.0\Task_Start.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\ref\Task_Start.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\Task_Start\obj\Debug\net5.0\Task_Start.genruntimeconfig.cache

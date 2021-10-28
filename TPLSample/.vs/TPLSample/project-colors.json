@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43c899f3-4565-4663-8978-b3dd19b83642": {
+      "ProjectGuid": "43c899f3-4565-4663-8978-b3dd19b83642",
+      "DisplayName": "Task_Start",
+      "ColorIndex": 0
+    },
+    "7e4f2384-7ad3-4547-937e-3b2d430f8090": {
+      "ProjectGuid": "7e4f2384-7ad3-4547-937e-3b2d430f8090",
+      "DisplayName": "Task_Beenden",
+      "ColorIndex": 1
+    },
+    "9e602275-587b-4dae-9248-9b6261de6dff": {
+      "ProjectGuid": "9e602275-587b-4dae-9248-9b6261de6dff",
+      "DisplayName": "TaskFactorySample",
+      "ColorIndex": 2
+    },
+    "912dccbc-58dc-4410-a97e-207ec946e364": {
+      "ProjectGuid": "912dccbc-58dc-4410-a97e-207ec946e364",
+      "DisplayName": "TaskMitParameter",
+      "ColorIndex": 3
+    },
+    "13fafaf0-1e6c-4b34-8f55-5b99faad1130": {
+      "ProjectGuid": "13fafaf0-1e6c-4b34-8f55-5b99faad1130",
+      "DisplayName": "TaskMitException",
+      "ColorIndex": 4
+    },
+    "9ecae111-ac4c-45d8-96a9-f58988cb3dfe": {
+      "ProjectGuid": "9ecae111-ac4c-45d8-96a9-f58988cb3dfe",
+      "DisplayName": "ContinueSample",
+      "ColorIndex": 5
+    },
+    "4d4f2974-53ef-45b8-9383-30ad91aac662": {
+      "ProjectGuid": "4d4f2974-53ef-45b8-9383-30ad91aac662",
+      "DisplayName": "ContinueSampleWithParams",
+      "ColorIndex": 6
+    },
+    "e6cd1b0e-f0ec-476a-9483-1fdc9ad8ba12": {
+      "ProjectGuid": "e6cd1b0e-f0ec-476a-9483-1fdc9ad8ba12",
+      "DisplayName": "Task_WhenAll_Sample",
+      "ColorIndex": 7
+    },
+    "fa576c72-02e0-450b-be1c-df2e29976451": {
+      "ProjectGuid": "fa576c72-02e0-450b-be1c-df2e29976451",
+      "DisplayName": "AsyncAwaitSample",
+      "ColorIndex": 8
+    },
+    "1b35157e-a2d4-4c0a-b6cd-e2cc94f555ea": {
+      "ProjectGuid": "1b35157e-a2d4-4c0a-b6cd-e2cc94f555ea",
+      "DisplayName": "BenchmarkTestParallelForVsFor",
+      "ColorIndex": 9
+    },
+    "8518674c-843f-4bcf-bad3-3eaeb28e48ef": {
+      "ProjectGuid": "8518674c-843f-4bcf-bad3-3eaeb28e48ef",
+      "DisplayName": "HalloAsync",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

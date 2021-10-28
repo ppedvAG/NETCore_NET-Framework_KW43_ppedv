@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\bin\Debug\net5.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\bin\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\bin\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\bin\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\HelloReflections\bin\Debug\net5.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\HelloReflections\bin\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\HelloReflections\bin\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\HelloReflections\bin\Debug\net5.0\Taschenrechner.pdb

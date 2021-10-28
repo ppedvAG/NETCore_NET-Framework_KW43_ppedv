@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68f5afa7-e782-4381-b29d-0ddeaa8f6692": {
+      "ProjectGuid": "68f5afa7-e782-4381-b29d-0ddeaa8f6692",
+      "DisplayName": "ThreadStarten",
+      "ColorIndex": 0
+    },
+    "e6e49aa7-6cfe-4b7f-8c06-4c1a3eb695b9": {
+      "ProjectGuid": "e6e49aa7-6cfe-4b7f-8c06-4c1a3eb695b9",
+      "DisplayName": "ThreadMitParameterStarten",
+      "ColorIndex": 1
+    },
+    "a0796277-f710-4072-b115-a420a667dcfd": {
+      "ProjectGuid": "a0796277-f710-4072-b115-a420a667dcfd",
+      "DisplayName": "ThreadBeenden",
+      "ColorIndex": 2
+    },
+    "82745c4c-e232-487d-a5be-a8b070f58676": {
+      "ProjectGuid": "82745c4c-e232-487d-a5be-a8b070f58676",
+      "DisplayName": "ThreadWithReturnValueAndParameters",
+      "ColorIndex": 3
+    },
+    "2c01f84d-c315-43c1-b9e5-8eb379e80cbb": {
+      "ProjectGuid": "2c01f84d-c315-43c1-b9e5-8eb379e80cbb",
+      "DisplayName": "ThreadWithCallback",
+      "ColorIndex": 4
+    },
+    "bdf0c169-3b1e-4b69-9ba7-e0f8ad6eb562": {
+      "ProjectGuid": "bdf0c169-3b1e-4b69-9ba7-e0f8ad6eb562",
+      "DisplayName": "ThreadPoolSample",
+      "ColorIndex": 5
+    },
+    "e73fc0a1-259a-4c5e-9ab9-5f2986fe1e46": {
+      "ProjectGuid": "e73fc0a1-259a-4c5e-9ab9-5f2986fe1e46",
+      "DisplayName": "LockSample",
+      "ColorIndex": 6
+    },
+    "acf48e91-2269-469f-836f-d812d36970a2": {
+      "ProjectGuid": "acf48e91-2269-469f-836f-d812d36970a2",
+      "DisplayName": "MonitorSample",
+      "ColorIndex": 7
+    },
+    "a1334473-ab3d-4dd6-8de1-3fbd1b343d0b": {
+      "ProjectGuid": "a1334473-ab3d-4dd6-8de1-3fbd1b343d0b",
+      "DisplayName": "MutextSample",
+      "ColorIndex": 8
+    },
+    "29e2f28c-bde9-4d42-9aa2-00c617c7d84b": {
+      "ProjectGuid": "29e2f28c-bde9-4d42-9aa2-00c617c7d84b",
+      "DisplayName": "Mutext_ProgrammInstance",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IgfLilAESsV5j4JtFF0Dr5cmhfjqIixSLi/Yn8rlV6TqRmx7W2W+8znqg5oeGDj4WAKPtGUqr12DzG/GHvCr/g==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\ThreadingSamples\\MutextSample\\MutextSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.exe
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.deps.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.runtimeconfig.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.runtimeconfig.dev.json
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ref\ContinueSampleWithParams.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\bin\Debug\net5.0\ContinueSampleWithParams.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.AssemblyInfo.cs
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ref\ContinueSampleWithParams.dll
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.pdb
+C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\TPLSample\ContinueSampleWithParams\obj\Debug\net5.0\ContinueSampleWithParams.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Aktueller Kurs\NETCore_NET-Framework_KW43_ppedv\Reflections\HelloReflections\bin\Debug\</OutputPath>
+  </PropertyGroup>
+
+</Project>

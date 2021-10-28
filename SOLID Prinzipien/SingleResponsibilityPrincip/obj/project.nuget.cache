@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Bw+cAZ8aAycscm0wIs8RUFGJWw+TvaDsmifO7Rjvr/rQD6Byiz3N8fL3l3AjYWL1+xkL6NUO3EsiHPpccBDOw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\SOLID Prinzipien\\SingleResponsibilityPrincip\\SingleResponsibilityPrincip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

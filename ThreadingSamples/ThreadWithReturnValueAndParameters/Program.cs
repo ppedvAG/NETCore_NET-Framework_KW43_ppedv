@@ -10,7 +10,7 @@ namespace ThreadWithReturnValueAndParameters
             string retStr = string.Empty;
             string meinText = "Hello World";
 
-
+            //Ab .NET 4.0 
             Thread thread = new Thread(() =>
             {
                 retStr = StringToUpper(meinText);

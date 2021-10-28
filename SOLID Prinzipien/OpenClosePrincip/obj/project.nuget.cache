@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZddhgGhkjNkkhvVRejFDCAfAkg5KxCacEQETiAfh4lm972UM3/XhWNj8ylBAeG3JePKw6tbxV2iD2NQTBegaNw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\SOLID Prinzipien\\OpenClosePrincip\\OpenClosePrincip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
