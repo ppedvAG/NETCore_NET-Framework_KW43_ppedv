@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "63016d5b-b88b-49ab-bcb1-1d24b7895c30": {
+      "ProjectGuid": "63016d5b-b88b-49ab-bcb1-1d24b7895c30",
+      "DisplayName": "Interfaces_With_Polymorphie",
+      "ColorIndex": 0
+    },
+    "c3fb81b8-1e13-4c19-aa60-8c969c9a0510": {
+      "ProjectGuid": "c3fb81b8-1e13-4c19-aa60-8c969c9a0510",
+      "DisplayName": "Grundlagen_Interfaces",
+      "ColorIndex": 1
+    },
+    "33e3eb9c-7343-4607-b194-c135e7a3a0b1": {
+      "ProjectGuid": "33e3eb9c-7343-4607-b194-c135e7a3a0b1",
+      "DisplayName": "Interfaces_Intro",
+      "ColorIndex": 2
+    },
+    "06cd82bf-fd67-4626-964f-f2d66020c8a8": {
+      "ProjectGuid": "06cd82bf-fd67-4626-964f-f2d66020c8a8",
+      "DisplayName": "Interfaces_RepositorySample",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
