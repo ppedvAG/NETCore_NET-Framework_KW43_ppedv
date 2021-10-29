@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET48_DatabaseFirst_Sample", "NET48_DatabaseFirst_Sample\NET48_DatabaseFirst_Sample.csproj", "{2AF83EED-7A23-4AA5-AD06-268B272DBAD3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net48_ModelFirst", "Net48_ModelFirst\Net48_ModelFirst.csproj", "{EB3D05F0-14B6-4BEE-A2EE-A456DEE7D7BF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore_CodeFirst", "EFCore_CodeFirst\EFCore_CodeFirst.csproj", "{471FF752-CFE2-4759-A0AF-B347CDA439CE}"
 EndProject
 Global
@@ -15,14 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2AF83EED-7A23-4AA5-AD06-268B272DBAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2AF83EED-7A23-4AA5-AD06-268B272DBAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2AF83EED-7A23-4AA5-AD06-268B272DBAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2AF83EED-7A23-4AA5-AD06-268B272DBAD3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EB3D05F0-14B6-4BEE-A2EE-A456DEE7D7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB3D05F0-14B6-4BEE-A2EE-A456DEE7D7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB3D05F0-14B6-4BEE-A2EE-A456DEE7D7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB3D05F0-14B6-4BEE-A2EE-A456DEE7D7BF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{471FF752-CFE2-4759-A0AF-B347CDA439CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{471FF752-CFE2-4759-A0AF-B347CDA439CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471FF752-CFE2-4759-A0AF-B347CDA439CE}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6uYAL6+JbiYvP7Dd07EYoWppY9YhJVe/0K4fu4GfQrKUVhxfWtr6qCSZN7ve1bPk/hykd0k5Sr2i6Tv4++4Gwg==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NETCore_NET-Framework_KW43_ppedv\\WebAPI_MVC_Demo\\MovieSample.UI\\MovieSample.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
