@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aee81d30-29f5-4f89-b052-42b1bf5ec357": {
+      "ProjectGuid": "aee81d30-29f5-4f89-b052-42b1bf5ec357",
+      "DisplayName": "SingleResponsibilityPrincip",
+      "ColorIndex": 0
+    },
+    "740fb7a6-970d-4150-a7ac-d5a13fd87bc8": {
+      "ProjectGuid": "740fb7a6-970d-4150-a7ac-d5a13fd87bc8",
+      "DisplayName": "OpenClosePrincip",
+      "ColorIndex": 1
+    },
+    "2468ed05-0f2a-4527-9c8d-453552e9014d": {
+      "ProjectGuid": "2468ed05-0f2a-4527-9c8d-453552e9014d",
+      "DisplayName": "LizkovPrincip",
+      "ColorIndex": 2
+    },
+    "1c690fbb-94d0-4c54-b39b-e752ea5b3e8b": {
+      "ProjectGuid": "1c690fbb-94d0-4c54-b39b-e752ea5b3e8b",
+      "DisplayName": "DependencyInversion",
+      "ColorIndex": 3
+    },
+    "9d9fe8eb-0e1c-42b3-94bc-7f5107ba5662": {
+      "ProjectGuid": "9d9fe8eb-0e1c-42b3-94bc-7f5107ba5662",
+      "DisplayName": "InterfaceSegregationPrinciple",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
